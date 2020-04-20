@@ -1,0 +1,1 @@
+This project is focused on learning HTML and CSS basics by recreating the design of Google homepage
